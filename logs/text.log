@@ -1,0 +1,74 @@
+by.training.task.service.exception.ServiceException: Incorrect data!
+	at by.training.task.service.impl.AddUserServiceImpl.addUser(AddUserServiceImpl.java:50) ~[classes/:?]
+	at by.training.task.controller.impl.Create.execute(Create.java:21) [classes/:?]
+	at by.training.task.controller.Controller.executeTask(Controller.java:35) [classes/:?]
+	at by.training.task.controller.Controller.start(Controller.java:49) [classes/:?]
+	at by.training.task.main.main(main.java:8) [classes/:?]
+2021-10-21 14:54:09.460 [main] ERROR training.task.controller.impl.Create - The method is exception, error during the procedure
+by.training.task.service.exception.ServiceException: Incorrect data!
+	at by.training.task.service.impl.AddUserServiceImpl.addUser(AddUserServiceImpl.java:50) ~[classes/:?]
+	at by.training.task.controller.impl.Create.execute(Create.java:21) [classes/:?]
+	at by.training.task.controller.Controller.executeTask(Controller.java:35) [classes/:?]
+	at by.training.task.controller.Controller.start(Controller.java:49) [classes/:?]
+	at by.training.task.main.main(main.java:8) [classes/:?]
+2021-10-21 14:56:55.200 [main] ERROR training.task.controller.impl.Create - The method is exception, error during the procedure
+by.training.task.service.exception.ServiceException: Incorrect data!
+	at by.training.task.service.impl.AddUserServiceImpl.addUser(AddUserServiceImpl.java:50) ~[classes/:?]
+	at by.training.task.controller.impl.Create.execute(Create.java:21) [classes/:?]
+	at by.training.task.controller.Controller.executeTask(Controller.java:35) [classes/:?]
+	at by.training.task.controller.Controller.start(Controller.java:49) [classes/:?]
+	at by.training.task.main.main(main.java:8) [classes/:?]
+2021-10-21 15:00:13.448 [main] ERROR training.task.controller.impl.Create - The method is exception, error during the procedure
+by.training.task.service.exception.ServiceException: Incorrect data!
+	at by.training.task.service.impl.AddUserServiceImpl.addUser(AddUserServiceImpl.java:50) ~[classes/:?]
+	at by.training.task.controller.impl.Create.execute(Create.java:21) [classes/:?]
+	at by.training.task.controller.Controller.executeTask(Controller.java:35) [classes/:?]
+	at by.training.task.controller.Controller.start(Controller.java:49) [classes/:?]
+	at by.training.task.main.main(main.java:8) [classes/:?]
+2021-10-21 16:17:19.940 [main] ERROR by.training.task.controller.CommandProvider - The method is exception, wrong request
+2021-10-21 16:27:01.401 [main] ERROR training.task.controller.impl.Change - The method is exception, error during the procedure
+by.training.task.service.exception.ServiceException: Enter correct data
+	at by.training.task.service.impl.ChangeUserServiceImpl.checkUserDataAndReturnLine(ChangeUserServiceImpl.java:95) ~[classes/:?]
+	at by.training.task.service.impl.ChangeUserServiceImpl.findUserFromFileAndChange(ChangeUserServiceImpl.java:67) ~[classes/:?]
+	at by.training.task.service.impl.ChangeUserServiceImpl.changeUser(ChangeUserServiceImpl.java:48) ~[classes/:?]
+	at by.training.task.controller.impl.Change.execute(Change.java:25) [classes/:?]
+	at by.training.task.controller.Controller.executeTask(Controller.java:40) [classes/:?]
+	at by.training.task.controller.Controller.start(Controller.java:54) [classes/:?]
+	at by.training.task.main.main(main.java:8) [classes/:?]
+2021-10-21 16:37:45.809 [main] ERROR by.training.task.controller.CommandProvider - The method is exception, wrong request
+2021-10-21 16:46:02.151 [main] ERROR training.task.controller.impl.Change - The method is exception, error during the procedure
+by.training.task.service.exception.ServiceException: Enter correct data
+	at by.training.task.service.impl.ChangeUserServiceImpl.checkUserDataAndReturnLine(ChangeUserServiceImpl.java:84) ~[classes/:?]
+	at by.training.task.service.impl.ChangeUserServiceImpl.findUserFromFileAndChange(ChangeUserServiceImpl.java:61) ~[classes/:?]
+	at by.training.task.service.impl.ChangeUserServiceImpl.changeUser(ChangeUserServiceImpl.java:48) ~[classes/:?]
+	at by.training.task.controller.impl.Change.execute(Change.java:25) [classes/:?]
+	at by.training.task.controller.Controller.executeTask(Controller.java:40) [classes/:?]
+	at by.training.task.controller.Controller.start(Controller.java:54) [classes/:?]
+	at by.training.task.main.main(main.java:8) [classes/:?]
+2021-10-21 16:46:53.276 [main] ERROR training.task.controller.impl.Change - The method is exception, error during the procedure
+by.training.task.service.exception.ServiceException: Enter correct data
+	at by.training.task.service.impl.ChangeUserServiceImpl.checkUserDataAndReturnLine(ChangeUserServiceImpl.java:84) ~[classes/:?]
+	at by.training.task.service.impl.ChangeUserServiceImpl.findUserFromFileAndChange(ChangeUserServiceImpl.java:61) ~[classes/:?]
+	at by.training.task.service.impl.ChangeUserServiceImpl.changeUser(ChangeUserServiceImpl.java:48) ~[classes/:?]
+	at by.training.task.controller.impl.Change.execute(Change.java:25) [classes/:?]
+	at by.training.task.controller.Controller.executeTask(Controller.java:40) [classes/:?]
+	at by.training.task.controller.Controller.start(Controller.java:54) [classes/:?]
+	at by.training.task.main.main(main.java:8) [classes/:?]
+2021-10-21 16:47:30.841 [main] ERROR training.task.controller.impl.Change - The method is exception, error during the procedure
+by.training.task.service.exception.ServiceException: Enter correct data
+	at by.training.task.service.impl.ChangeUserServiceImpl.checkUserDataAndReturnLine(ChangeUserServiceImpl.java:84) ~[classes/:?]
+	at by.training.task.service.impl.ChangeUserServiceImpl.findUserFromFileAndChange(ChangeUserServiceImpl.java:61) ~[classes/:?]
+	at by.training.task.service.impl.ChangeUserServiceImpl.changeUser(ChangeUserServiceImpl.java:48) ~[classes/:?]
+	at by.training.task.controller.impl.Change.execute(Change.java:25) [classes/:?]
+	at by.training.task.controller.Controller.executeTask(Controller.java:40) [classes/:?]
+	at by.training.task.controller.Controller.start(Controller.java:54) [classes/:?]
+	at by.training.task.main.main(main.java:8) [classes/:?]
+2021-10-21 16:47:59.883 [main] ERROR training.task.controller.impl.Change - The method is exception, error during the procedure
+by.training.task.service.exception.ServiceException: Enter correct data
+	at by.training.task.service.impl.ChangeUserServiceImpl.checkUserDataAndReturnLine(ChangeUserServiceImpl.java:84) ~[classes/:?]
+	at by.training.task.service.impl.ChangeUserServiceImpl.findUserFromFileAndChange(ChangeUserServiceImpl.java:61) ~[classes/:?]
+	at by.training.task.service.impl.ChangeUserServiceImpl.changeUser(ChangeUserServiceImpl.java:48) ~[classes/:?]
+	at by.training.task.controller.impl.Change.execute(Change.java:25) [classes/:?]
+	at by.training.task.controller.Controller.executeTask(Controller.java:40) [classes/:?]
+	at by.training.task.controller.Controller.start(Controller.java:54) [classes/:?]
+	at by.training.task.main.main(main.java:8) [classes/:?]
